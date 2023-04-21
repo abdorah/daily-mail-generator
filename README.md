@@ -33,7 +33,7 @@ Mail Gen is a utility that generates emails based on an HTML table. This can be 
 
 - **Screenshot of a generated email:**
 
-![Screenshot of a generated email](src\main\resources\assets\result.png)
+![Screenshot of a generated email](https://github.com/abdorah/daily-mail-generator/blob/c60cfafa020dc46dd8e700705235de16db5b7ebd/src/main/resources/assets/result.png)
 
 ## Contributing
 
